@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Medium.woff2') format('woff2'),
+        url('NarkisBlockMF-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Bold.woff2') format('woff2'),
+        url('NarkisBlockMF-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Regular.woff2') format('woff2'),
+        url('NarkisBlockMF-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Regular.woff2') format('woff2'),
+        url('NarkisBlockMF-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Regular.woff2') format('woff2'),
+        url('NarkisBlockMF-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Medium.woff2') format('woff2'),
+        url('NarkisBlockMF-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Hebrew';
+    src: url('AdobeHebrew-Regular.woff2') format('woff2'),
+        url('AdobeHebrew-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Bold.woff2') format('woff2'),
+        url('NarkisBlockMF-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Bold.woff2') format('woff2'),
+        url('NarkisBlockMF-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NarkisBlockMF';
+    src: url('NarkisBlockMF-Medium.woff2') format('woff2'),
+        url('NarkisBlockMF-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'Narkiss Block';
+    src: url('NarkissBlock-Regular.woff2') format('woff2'),
+        url('NarkissBlock-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Narkiss Block';
+    src: url('NarkissBlock-Regular_1.woff2') format('woff2'),
+        url('NarkissBlock-Regular_1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
