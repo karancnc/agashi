@@ -3,7 +3,8 @@
     --narkis-Block: 'Narkiss Block';
     --white:#ffffff;
     --black:#000000;
-    --blue:rgba(13, 117, 182, 1);
+    /* --blue:rgba(13, 117, 182, 1); */
+    --blue:#ff0000;
     --chocklate:rgba(152, 120, 96, 1);
     --blue-dark:rgba(29, 52, 97, 1);
     --gray:rgba(64, 84, 108, 1);
